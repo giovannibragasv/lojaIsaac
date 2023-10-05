@@ -13,6 +13,7 @@ Como requisito do projeto, era necessário a utilização de no mínimo duas tec
 - Maven
 - Datafaker (Biblioteca de Testes)
 - Java Swing (Interface Gráfica)
+- Exportação de daods em arquivos CSV
 
 ## 💻 Execução do Projeto
 Caso o usuário utilize alguma IDE como VSCode, é necessário apenas baixar o arquivo e executá-lo no aplicativo.
